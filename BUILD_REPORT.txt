@@ -1,0 +1,7 @@
+CE1201 Website Build Report
+Credit: Made by K.I.Rohan
+Generated study PDFs added: 6
+PDF pages indexed for global search: 165
+Web-native solution cards: 25
+Full complete solution PDF: 39 pages
+Features: responsive mobile/desktop, light/dark, focus mode, global search, formula filter, solution search, animations, print-to-PDF, offline PDF downloads, proper superscripts/subscripts.
