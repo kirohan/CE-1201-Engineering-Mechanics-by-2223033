@@ -1,0 +1,9 @@
+{
+  "name":"CE 1201 Engineering Mechanics",
+  "short_name":"CE1201",
+  "start_url":"./#/home",
+  "display":"standalone",
+  "background_color":"#f6f7fb",
+  "theme_color":"#3559e0",
+  "description":"Set-wise Engineering Mechanics study hub. Made by K.I.Rohan."
+}
